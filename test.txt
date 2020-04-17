@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This test has been updated.
+=======
+This is a test file.
+>>>>>>> 9c9f9fd3f2af4bbaf0efe139e4eba5110a1f308f
